@@ -92,3 +92,6 @@ left:     365px;
 #coupon a, img{
   border: none;
 }
+#headerSlogan{
+  float: right;
+}
